@@ -41,7 +41,7 @@ console.log(result);
 
 ~~~~
 
-# For Of
+# For Of Statement
 
 3. For Of allows us to save n=time by not needing to constantly write a for loop when you don't need access to the index
 
